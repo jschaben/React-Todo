@@ -7,7 +7,7 @@ body {
 }
 
 body {
-    background-color: #5555cf;
+    background-color: #3399ff;
 }
 
 h1,
@@ -36,14 +36,17 @@ span {
     justify-content: center;
     align-items: center;
     border-bottom: 3px solid #3a4242;
+    
+    
 }
 
 h1 {
     text-align: center;
+    color: #00264d;
 }
 
 .item {
-    background-color: green;
+    background-color: #004d99;
     width: 80%;
     text-align: center;
     margin: 20px 0;
@@ -52,10 +55,10 @@ h1 {
 }
 
 .item.completed {
-    color: #850323;
-    border: 2px solid #850323;
+    color: #be0835;
+    border: 2px solid #be0835;
     padding: 18px 8px;
-    background-color: #470012;
+    background-color: #001a33;
     text-decoration: line-through;
 }
 
@@ -74,19 +77,19 @@ form {
 }
 
 form input {
-    background-color: #12125e;
+    background-color: #00264d;
     border: 0;
     padding: 6px 0;
     font-size: 1rem;
     outline: 0;
     color: white;
-    border-bottom: 1px solid #6a9c9c;
+    border-bottom: 1px solid #406992;
     margin-right: 8px;
 }
 
 button {
-    background-color: #30864a;
-    border: 1px solid #30864a;
+    background-color: #00264d;
+    border: 1px solid #00264d;
     color: white;
     font-size: 16px;
     padding: 6px 14px;
